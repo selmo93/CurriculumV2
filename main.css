@@ -41,7 +41,12 @@ body {
 .cover-container {
   max-width: 42em;
 }
-
+.tabela1 {
+    margin-top: 10px;
+    text-align: right;
+    display: grid;
+    grid-template-columns: 200px 200px;
+}
 
 /*
  * Header
